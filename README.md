@@ -1,7 +1,6 @@
 # homework-
-My first repository
+_sdfhj_
+*u*
 __салам__
 **алло**
-<vk.com>
-######гы
 ~~чё~~
